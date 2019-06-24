@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'tutorial-2',
+    name: 'csc648-team6',
     script: './index.js'
   }],
   deploy: {
